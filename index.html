@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Всемирная Корпорация Защиты Бобров!!!</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link
@@ -15,7 +15,6 @@
             position: relative;
             overflow: hidden;
         }
-
         .water-wave::after {
             content: "";
             position: absolute;
@@ -28,7 +27,6 @@
             animation: wave 15s linear infinite;
             z-index: 10;
         }
-
         @keyframes wave {
             0% {
                 transform: translateX(0);
@@ -42,7 +40,6 @@
         .beaver-float {
             animation: float 6s ease-in-out infinite;
         }
-
         @keyframes float {
             0% {
                 transform: translateY(0px) rotate(0deg);
@@ -60,13 +57,11 @@
             position: absolute;
             opacity: 0;
         }
-
         .custom-checkbox + label {
             position: relative;
             cursor: pointer;
             padding-left: 2rem;
         }
-
         .custom-checkbox + label:before {
             content: "";
             position: absolute;
@@ -78,7 +73,6 @@
             border-radius: 4px;
             background: white;
         }
-
         .custom-checkbox:checked + label:after {
             content: "✓";
             position: absolute;
@@ -99,7 +93,6 @@
             gap: 0.5rem;
             z-index: 1000;
         }
-
         #commit-buttons button {
             background-color: #3b82f6;
             color: white;
@@ -110,7 +103,6 @@
             cursor: pointer;
             transition: background-color 0.2s;
         }
-
         #commit-buttons button:hover {
             background-color: #2563eb;
         }
@@ -160,6 +152,7 @@
         </div>
     </div>
 </header>
+
 <!-- Mobile Menu -->
 <div id="mobile-menu" class="hidden md:hidden bg-white shadow-lg">
     <div class="container mx-auto px-4 py-3 flex flex-col space-y-4">
@@ -235,6 +228,7 @@
         </div>
     </div>
 </section>
+
 <!-- Mission Section -->
 <section id="mission" class="py-20 bg-white">
     <div class="container mx-auto px-4">
@@ -441,7 +435,7 @@
                     <a
                             href="#"
                             class="text-emerald-600 hover:text-emerald-800 font-medium"
-                    >Узнать больше →</a
+                    > Узнать больше →</a
                     >
                 </div>
             </div>
