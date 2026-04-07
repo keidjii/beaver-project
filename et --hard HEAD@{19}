@@ -1,0 +1,40 @@
+[33m12a130a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{0}: checkout: moving from beaver-block to main
+[33m20ba1bb[m[33m ([m[1;31morigin/beaver-block[m[33m, [m[1;32mbeaver-block[m[33m)[m HEAD@{1}: checkout: moving from main to beaver-block
+[33m12a130a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{2}: checkout: moving from beaver-block to main
+[33m20ba1bb[m[33m ([m[1;31morigin/beaver-block[m[33m, [m[1;32mbeaver-block[m[33m)[m HEAD@{3}: checkout: moving from main to beaver-block
+[33m12a130a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{4}: checkout: moving from beaver-block to main
+[33m20ba1bb[m[33m ([m[1;31morigin/beaver-block[m[33m, [m[1;32mbeaver-block[m[33m)[m HEAD@{5}: checkout: moving from main to beaver-block
+[33m12a130a[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{6}: checkout: moving from beaver-block to main
+[33m20ba1bb[m[33m ([m[1;31morigin/beaver-block[m[33m, [m[1;32mbeaver-block[m[33m)[m HEAD@{7}: checkout: moving from mission-block to beaver-block
+[33m0bbf639[m[33m ([m[1;31morigin/mission-block[m[33m, [m[1;32mmission-block[m[33m)[m HEAD@{8}: checkout: moving from main to mission-block
+[33m94b45fc[m HEAD@{9}: checkout: moving from mission-block to main
+[33m0bbf639[m[33m ([m[1;31morigin/mission-block[m[33m, [m[1;32mmission-block[m[33m)[m HEAD@{10}: checkout: moving from main to mission-block
+[33m94b45fc[m HEAD@{11}: checkout: moving from beaver-block to main
+[33m20ba1bb[m[33m ([m[1;31morigin/beaver-block[m[33m, [m[1;32mbeaver-block[m[33m)[m HEAD@{12}: checkout: moving from main to beaver-block
+[33m94b45fc[m HEAD@{13}: checkout: moving from mission-block to main
+[33m0bbf639[m[33m ([m[1;31morigin/mission-block[m[33m, [m[1;32mmission-block[m[33m)[m HEAD@{14}: merge main: Merge made by the 'ort' strategy.
+[33me62d90a[m HEAD@{15}: checkout: moving from main to mission-block
+[33m94b45fc[m HEAD@{16}: pull: Fast-forward
+[33m1350410[m HEAD@{17}: checkout: moving from mission-block to main
+[33me62d90a[m HEAD@{18}: checkout: moving from beaver-block to mission-block
+[33m20ba1bb[m[33m ([m[1;31morigin/beaver-block[m[33m, [m[1;32mbeaver-block[m[33m)[m HEAD@{19}: commit: Add picture
+[33m4226329[m HEAD@{20}: checkout: moving from mission-block to beaver-block
+[33me62d90a[m HEAD@{21}: checkout: moving from beaver-block to mission-block
+[33m4226329[m HEAD@{22}: checkout: moving from mission-block to beaver-block
+[33me62d90a[m HEAD@{23}: commit: Start Mission block
+[33m1350410[m HEAD@{24}: checkout: moving from main to mission-block
+[33m1350410[m HEAD@{25}: checkout: moving from beaver-block to main
+[33m4226329[m HEAD@{26}: checkout: moving from main to beaver-block
+[33m1350410[m HEAD@{27}: commit: Add !!!
+[33me21c37f[m HEAD@{28}: checkout: moving from beaver-block to main
+[33m4226329[m HEAD@{29}: checkout: moving from main to beaver-block
+[33me21c37f[m HEAD@{30}: checkout: moving from beaver-block to main
+[33m4226329[m HEAD@{31}: reset: moving to HEAD
+[33m4226329[m HEAD@{32}: commit: Start bear block
+[33me21c37f[m HEAD@{33}: checkout: moving from main to beaver-block
+[33me21c37f[m HEAD@{34}: revert: Revert "Delete mobile menu"
+[33madde2d9[m HEAD@{35}: commit: Create .gitignore
+[33m43b7bdf[m HEAD@{36}: commit: Delete mobile menu
+[33m241159b[m HEAD@{37}: commit: Add mobile menu
+[33maa3e3a2[m HEAD@{38}: commit: Add header
+[33m305b321[m HEAD@{39}: commit (initial): Add index.html
